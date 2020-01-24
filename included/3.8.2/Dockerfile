@@ -1,4 +1,4 @@
-FROM cypress/browsers:node12.6.0-chrome77
+FROM cypress/browsers:node12.14.0-chrome79-ff71
 
 # avoid too many progress messages
 # https://github.com/cypress-io/cypress/issues/1243
